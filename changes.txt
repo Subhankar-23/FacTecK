@@ -1,2 +1,7 @@
 amra pore decide koira idate lekhum j ki ki changes korum
-1. first we have to decide the template
+1. First we have to decide the template.
+2. HTML file to be arranged perfectly.
+3. CSS file to be arranged along with HTML file.
+4. According to template we have to proceed.
+https://www.youtube.com/watch?v=ggjQK-ziQC4
+https://litespot-templateify.blogspot.com/
