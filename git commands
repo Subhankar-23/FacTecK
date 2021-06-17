@@ -1,0 +1,16 @@
+To push...
+1. git add .
+2. git commit -m "changes you have done"
+3. git push origin yours_current_branch_name (ex. git push origin saikat)
+
+To pull in your branch...
+1. git pull
+
+To pull from any branch...
+1. git pull origin that_branch_name (ex. git pull origin saikat)
+
+To merge with main...
+1. push your current branch
+2. change branch to main branch 
+3. git merge that_branch_name (ex. git merge saikat)
+4. let me know in grp i'll merge in github using pull request 
